@@ -45,13 +45,13 @@
 ## 📸 Demonstration
 
 **🧠 Hints View and Submissions**  
-<img src="./WordSpell_1.gif" width="400">
+<img src="./WordSpell_1.gif" width="300">
 
 **📜 Scrolling Captured Words**  
-<img src="./WordSpell_2.gif" width="400">
+<img src="./WordSpell_2.gif" width="300">
 
 **⚙️ New Game, Shuffle, Preferences**  
-<img src="./WordSpell_3.gif" width="400">
+<img src="./WordSpell_3.gif" width="300">
 
 ---
 
