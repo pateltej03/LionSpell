@@ -2,8 +2,6 @@
 
 **LionSpell** is a SwiftUI-based word puzzle game inspired by the Spelling Bee challenge. The app supports English and French words and allows users to form as many valid words as possible from a given set of random letters. It tracks the score, shows hints, and offers preferences like letter count and language.
 
----
-
 ## ✨ Features
 
 -   📚 Supports English and French word dictionaries
@@ -13,8 +11,6 @@
 -   ⚙️ Preferences menu to adjust language and letter count
 -   🔤 Pangram detection and advanced word scoring logic
 -   📱 Responsive SwiftUI interface with custom hexagon, pentagon, and square letter buttons
-
----
 
 ## 🧩 Concepts Practiced
 
@@ -27,8 +23,6 @@
 -   Localization support through dictionary selection
 -   Algorithmic logic for scoring, pangram detection, and filtering valid words
 
----
-
 ## 📂 Project Structure
 
 -   `GameManager.swift`: Main logic for gameplay and data binding
@@ -39,19 +33,6 @@
 -   `Shape.swift`: Custom UI components for letter tiles (Hexagon, Pentagon, Square)
 -   `Words.swift`: Word dictionaries for both languages
 -   `GameData.swift`: Contains core game state and user preferences
-
----
-
-## 📸 Demonstration
-
-**🧠 Hints View and Submissions**  
-<img src="./WordSpell_1.gif" width="400">
-
-**📜 Scrolling Captured Words**  
-<img src="./WordSpell_2.gif" width="400">
-
-**⚙️ New Game, Shuffle, Preferences**  
-<img src="./WordSpell_3.gif" width="400">
 
 ---
 
