@@ -50,11 +50,17 @@
     <img src="./WordSpell_1.gif" width="300">
 </div>
 
-**📜 Scrolling Captured Words**  
-<img src="./WordSpell_2.gif" width="300">
+**📜 Scrolling Captured Words**
 
-**⚙️ New Game, Shuffle, Preferences**  
-<img src="./WordSpell_3.gif" width="300">
+<div align="center">
+    <img src="./WordSpell_2.gif" width="300">
+</div>
+
+**⚙️ New Game, Shuffle, Preferences**
+
+<div align="center">
+    <img src="./WordSpell_3.gif" width="300">
+</div>
 
 ---
 
