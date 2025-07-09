@@ -44,8 +44,11 @@
 
 ## 📸 Demonstration
 
-**🧠 Hints View and Submissions**  
-<img src="./WordSpell_1.gif" width="300">
+**🧠 Hints View and Submissions**
+
+<div align="center">
+    <img src="./WordSpell_1.gif" width="300">
+</div>
 
 **📜 Scrolling Captured Words**  
 <img src="./WordSpell_2.gif" width="300">
